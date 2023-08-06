@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{11E8267D-5C9D-419C-A968-1DA405BA1BDA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/Repositories/Interfaces/IStudentRepository.cs">
+    <Files>
+      <File FileName="CourseApp/Program.cs" Line="34" Column="19" />
+      <File FileName="CourseApp/Controller/StudentController.cs" Line="48" Column="70" />
+      <File FileName="Service/Services/StudentService.cs" Line="30" Column="6" />
+      <File FileName="Service/Services/TeacherService.cs" Line="9" Column="6" />
+      <File FileName="Repository/Repositories/Interfaces/IStudentRepository.cs" Line="10" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseApp" expanded="True">
+            <Node name="CourseApp" expanded="True">
+              <Node name="Controller" expanded="True" />
+            </Node>
+            <Node name="Repository" expanded="True">
+              <Node name="Repositories" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="IStudentRepository.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="Helpers" expanded="True">
+                <Node name="Extensions" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CourseApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
